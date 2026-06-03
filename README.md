@@ -1,20 +1,22 @@
-# Hi, I'm Durga Prasad Gannoji 👋
+# Hi 👋, I'm Durga Prasad Gannoji
 
-## About Me
+### AI/ML Enthusiast | Computer Vision Developer | Python Programmer
 
-🎓 B.Tech Electronics & Communication Engineering Student with a Minor in Artificial Intelligence & Machine Learning
+🎓 B.Tech (ECE) with Minor in Artificial Intelligence & Machine Learning
 
-🤖 Passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Software Engineering
+🔭 Currently working on AI, Computer Vision, NLP, and Software Engineering Projects
 
-💡 Interested in building intelligent systems that solve real-world problems through AI and data-driven solutions
+🌱 Learning Deep Learning, Generative AI, Cloud Computing, and Full-Stack Development
 
-🚀 Currently seeking Software Engineer, AI Engineer, Machine Learning Engineer, and Data Science opportunities
+💼 Open to Software Engineer, AI Engineer, ML Engineer, and Data Science Opportunities
+
+📫 Email: [gannoji16@gmail.com](mailto:gannoji16@gmail.com)
 
 ---
 
-## Technical Skills
+## 🚀 Technical Skills
 
-### Programming
+### Programming Languages
 
 * Python
 * Java
@@ -24,25 +26,19 @@
 
 * Machine Learning
 * Deep Learning
-* Transformer Models (BERT, RoBERTa)
-* CNNs (ResNet)
+* BERT
+* RoBERTa
+* ResNet
 * Attention Mechanisms
-* Multimodal AI Systems
+* Multimodal AI
 
 ### Computer Vision
 
 * OpenCV
 * MediaPipe
+* Hand Gesture Recognition
 * Eye-Gaze Detection
 * Real-Time Video Processing
-* Hand Gesture Recognition
-
-### NLP
-
-* Sentiment Analysis
-* Text Classification
-* Contextual Embeddings
-* Feature Engineering
 
 ### Databases & Analytics
 
@@ -58,23 +54,27 @@
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
-### Deep Fusion Model for Social Media Sentiment Detection
+### 🔹 Deep Fusion Model for Social Media Sentiment Detection
 
-Multimodal sentiment analysis system combining RoBERTa and ResNet using attention-based fusion for text and image understanding.
+Multimodal sentiment classification using RoBERTa and ResNet with attention-based feature fusion.
 
-### Exam Proctoring System
+### 🔹 Exam Proctoring System
 
-AI-powered examination monitoring system with eye-gaze tracking, tab-switch detection, automated alerts, and report generation.
+Real-time AI proctoring with eye-gaze tracking, tab-switch monitoring, email alerts, and report generation.
 
-### Virtual Keyboard Using Hand Gesture Recognition
+### 🔹 Virtual Keyboard Using Hand Gesture Recognition
 
-Computer vision application using MediaPipe and OpenCV for touchless typing through hand gesture recognition.
+Touchless virtual keyboard using OpenCV, MediaPipe, and Pynput.
+
+### 🔹 Road Accident Detection Using Image Processing
+
+Automatic accident detection and alert system using computer vision techniques.
 
 ---
 
-## Areas of Interest
+## 🎯 Areas of Interest
 
 * Artificial Intelligence
 * Machine Learning
@@ -85,10 +85,10 @@ Computer vision application using MediaPipe and OpenCV for touchless typing thro
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-📧 Email: [gannoji16@gmail.com](mailto:gannoji16@gmail.com)
+* LinkedIn: https://linkedin.com/in/durgaprasadgannoji
+* GitHub: https://github.com/durgaprasadgannoji
+* Email: [gannoji16@gmail.com](mailto:gannoji16@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/durgaprasadgannoji
-
-💻 GitHub: github.com/durgaprasadgannoji
+⭐ Thanks for visiting my profile!
