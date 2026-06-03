@@ -13,6 +13,11 @@
 📫 Email: [gannoji16@gmail.com](mailto:gannoji16@gmail.com)
 
 ---
+## 📜 Certifications
+
+- Oracle Cloud Infrastructure Foundations Associate
+- Microsoft Learn - Copilot Foundations (AI-3018)
+- GitHub Copilot Learning Path
 
 ## 🚀 Technical Skills
 
